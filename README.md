@@ -2,6 +2,8 @@
 
 This project analyzes real employee survey responses using Microsoft Excel to uncover satisfaction levels, departmental trends, and workplace insights. It highlights what drives engagement and offers data-driven recommendations to enhance employee experience and organizational culture.  
 
+![Dashboard Snapshot](./EMPLOYEE%20SURVEY%20ANALYSIS%20DASHBOARD.jpg)
+
 ## 🎯 Objectives  
 • Understand which survey questions had the highest and lowest agreement levels.  
 • Identify satisfaction trends across departments and roles.  
